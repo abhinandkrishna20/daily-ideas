@@ -1,0 +1,6 @@
+Idea001
+
+Automate Github update
+In this project I want to create a app. That will starts when I switch on my system. 
+If I create new project file suddenly it create a repository on Github. It automatically push to Github.
+So I can easily maintain my Github profile in daily basis.
